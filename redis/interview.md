@@ -2,7 +2,7 @@
 
 #### redis主从复制
 
-#### redis sentinel原理
+#### sentinel原理
 
 #### sentinel如何解决脑裂问题
 
